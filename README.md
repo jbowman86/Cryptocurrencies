@@ -14,7 +14,8 @@ A client asked for a list of tradable cryptocurrencies and wants to be able to p
 ## Results:
 ### The imported DataFrame before cleaning, 1252 rows of data:   
 
-INSERT 1_DATAFRAME_BRFORE_CLEANING.PNG
+![
+](https://github.com/jbowman86/Cryptocurrencies/blob/4290397ca56ee68c743cdccd6b55de71695c3e52/Images/Dataframe_Before_Cleaning.png)
 
 ### The list of tradable cryptocurrencies after cleaning, 532 rows of data:   
 
