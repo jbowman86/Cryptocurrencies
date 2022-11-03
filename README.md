@@ -19,29 +19,33 @@ A client asked for a list of tradable cryptocurrencies and wants to be able to p
 
 ### The list of tradable cryptocurrencies after cleaning, 532 rows of data:   
 
-INSERT 2_DATAFRAME_AFTER_CLEANING.PNG 
+![
+](https://github.com/jbowman86/Cryptocurrencies/blob/310e4e0214fb24a31a0fde73b1a7a991dbfa01ef/Images/Dataframe_After_Cleaning.png)
 
 ### K-means Clustering Algorithm, Elbow Curve:   
 
-INSERT 3_ELBOW_CURVE.PNG
+![
+](https://github.com/jbowman86/Cryptocurrencies/blob/310e4e0214fb24a31a0fde73b1a7a991dbfa01ef/Images/Elbow_Curve.png)
 
 ### Applying the Principal Component Analysis:    
 
-INSERT 4_DATAFRAME_AFTER_PCA.PNG
+![](https://github.com/jbowman86/Cryptocurrencies/blob/310e4e0214fb24a31a0fde73b1a7a991dbfa01ef/Images/Dataframe_After_PCA.png)
 
 ### 3D Scatterplot with Clusters, Visualizing Tradable Cryptocurrencies:      
-
-INSERT 5_3D_MODEL.PNG
+![
+](https://github.com/jbowman86/Cryptocurrencies/blob/310e4e0214fb24a31a0fde73b1a7a991dbfa01ef/Images/3d_Model.png)
 
 ### Number of Tradable Cryptocurrencies:    
 
-INSERT 6_NUMBER_OF_TRADABLE_CRYPTOS.PNG 
+![
+](https://github.com/jbowman86/Cryptocurrencies/blob/310e4e0214fb24a31a0fde73b1a7a991dbfa01ef/Images/Number_of_Tradable_Cryptocurrencies.png)
 
 ### DataFrame to plot results:    
 
-INSERT 7_DATAFRAME_FOR_CRYPTOS.PNG
+![
+](https://github.com/jbowman86/Cryptocurrencies/blob/310e4e0214fb24a31a0fde73b1a7a991dbfa01ef/Images/Dataframe_for_Cryptocurrencies.png)
 
 ### Tradable Cryptocurrencies:    
 
-INSERT 8_TRADABLE_CRYPTO_RESULTS.PNG
-
+![
+](https://github.com/jbowman86/Cryptocurrencies/blob/310e4e0214fb24a31a0fde73b1a7a991dbfa01ef/Images/Tradable_Crypto_Results.png)
